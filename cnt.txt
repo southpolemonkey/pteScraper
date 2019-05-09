@@ -1,0 +1,9 @@
+   57 files in directory ./Line
+   42 files in directory ./Flow
+   39 files in directory ./Pie
+   32 files in directory ./Bar
+   31 files in directory ./Map
+   27 files in directory ./Table
+   23 files in directory ./Picture
+   23 files in directory ./Mix
+    5 files in directory .
